@@ -1,8 +1,6 @@
-# [lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids/)
+# [lidarr-on-steroids](https://github.com/DrMxrcy/lidarr-on-steroids)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/youegraillot/lidarr-on-steroids?style=for-the-badge&logo=github)](https://github.com/youegraillot/lidarr-on-steroids)
-[![Latest tag](https://img.shields.io/docker/v/youegraillot/lidarr-on-steroids?style=for-the-badge&logo=docker)](https://hub.docker.com/r/youegraillot/lidarr-on-steroids)
-[![Docker pulls](https://img.shields.io/docker/pulls/youegraillot/lidarr-on-steroids?style=for-the-badge&logo=docker)](https://hub.docker.com/r/youegraillot/lidarr-on-steroids)
+# Forked from [youegraillot](https://github.com/youegraillot) to contiune to update the app!
 
 This repository bundles a modded version of Lidarr and Deemix into a docker image featuring :
   - Native Deemix integration as an indexer and downloader for Lidarr
